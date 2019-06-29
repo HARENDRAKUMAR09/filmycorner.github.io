@@ -1,0 +1,71 @@
+
+html{
+    scroll-behavior: smooth;
+
+}
+
+body{
+    background: linear-gradient(55deg,coral,lightblue);
+    font-family: "Berlin Sans FB",sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: auto;
+    text-blink: red;
+}
+
+img{
+border-radius: 10px;
+    box-shadow: 0 0 10px,black;
+    text-justify-trim: 10px;
+}
+
+table{
+    width: 100%;
+    padding: 10px;
+}
+
+h2{
+    background-color: red;
+    padding: 10px;
+    border-radius: 30%;
+    margin: auto;
+    width: 40%;
+
+    box-shadow: 0 0 10px black;
+    text-align: -moz-left;
+
+}
+
+h1{
+    background: linear-gradient(35deg,cornsilk,lightcoral);
+    padding: 15px;
+    width: 19%;
+    border-radius:  10%;
+    margin: auto;
+
+    box-shadow: 0 0 30px black;
+}
+#b-menu{
+
+    color: white;
+    padding: 10px;
+
+}
+#menu{
+    padding:1.5%;
+    color: black;
+    background: transparent;
+    text-space: 1.5%;
+    -webkit-text-decoration-style: solid;
+
+}
+p{
+    text-align: justify;
+}
+
+#footer{
+    padding: 4px;
+    text-align: center;
+    background: rosybrown;
+    color: brown;
+}
